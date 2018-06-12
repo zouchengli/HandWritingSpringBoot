@@ -24,6 +24,4 @@ hs_err_pid*
 
 # Idea files
 *.iml
-misc.xml
-modules.xml
-vcs.xml
+.idea
